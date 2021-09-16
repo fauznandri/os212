@@ -9,5 +9,8 @@ ZCZC W01  90 L02 Weekly Synchronous Class
 ZCZC W01  10 L06 GSGS about VirtualBox
 ZCZC W01  10 L11 Assignment #1
 ZCZC W01  60 L12 Assignment #2
+ZCZC W02  90 L02 Weekly Synchronous Class
+ZCZC W02  90 L24 Learning more about Bash and Regex
+
 
 
