@@ -13,6 +13,8 @@ ZCZC W02  90 L02 Weekly Synchronous Class
 ZCZC W02  90 L24 Learning more about Bash and Regex
 ZCZC W03  90 L02 Weekly Synchronous Class
 ZCZC W03  60 L09 Assignment in General
+ZCZC W04  90 L02 Weekly Synchronous Class
+ZCZC W04  60 L09 Assignment in General
 
 
 
