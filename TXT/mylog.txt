@@ -15,6 +15,7 @@ ZCZC W03  90 L02 Weekly Synchronous Class
 ZCZC W03  60 L09 Assignment in General
 ZCZC W04  90 L02 Weekly Synchronous Class
 ZCZC W04  60 L09 Assignment in General
+ZCZC W04  15 L04 Updating bookmark links
 
 
 
