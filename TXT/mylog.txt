@@ -20,3 +20,4 @@ ZCZC W05  90 L02 Weekly Synchronous Class
 ZCZC W05  60 L09 Assignment in General
 ZCZC W05  60 L24 Learning more about AWK, SED and grep
 ZCZC W05  30 L80 Watching YouTube videos about recent games release
+ZCZC W06  90 L02 Weekly Monday Synchronous Class
