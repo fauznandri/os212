@@ -25,3 +25,8 @@ ZCZC W06  60 L09 Assignment in General
 ZCZC W07  90 L02 Weekly Monday Synchronous Class
 ZCZC W08  90 L02 Weekly Monday Synchronous Class
 ZCZC W08  30 L02 Weekly Thursday Synchronous Class
+ZCZC W09  90 L02 Weekly Monday Synchronous Class
+ZCZC W09  30 L02 Weekly Thursday Synchronous Class
+ZCZC W10  90 L02 Weekly Monday Synchronous Class
+ZCZC W10  30 L02 Weekly Thursday Synchronous Class
+
